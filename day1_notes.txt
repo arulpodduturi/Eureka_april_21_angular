@@ -1,0 +1,46 @@
+https://github.com/sanjaysamantra1
+NodeJS
+    acts like a server for any javascript language
+    22.14.0 or anything
+    node -v  // command to verify node version
+visual studio code(code editor)
+Git setup
+    version control system
+    central place to keep the code
+    install git software
+    https://github.com/sanjaysamantra1/git_notes/blob/main/git_notes.txt
+
+Web development
+====================
+
+-developing a website
+- Front end
+    Used to develop User Interface (Look and feel)
+    HTML
+        Used to add content(paragraph,div, tag,image, vedio,table, form, list, audio) to the web page
+    CSS
+        Styling to the web page like border, color, width, height, background, placement
+    Bootstrap
+        CSS library (lot of pre defined css classes/ responsiveness)
+    javascript
+        behaviour of the web page
+    Angular/React
+        javascript frameworks (RAD ,CLI ,template system , Routing, form handling)
+        it supports only typescript
+-back end  
+    Develop Rest APIs(Java/ .net/PHP/Python/Go/NodeJS)
+-Database
+    holds the data(oracle/ mysql/ mongoDB)
+
+ng new projects
+
+Flipkart Product Example
+=====================
+
+1. Create a HTMl file1
+
+   - ! ( emmet / shortcut ) add boilerplate HTMl code
+   - add HTML code
+    - to open/ run the html file in browser
+        a. install vscode extension (open in browser)
+        b. alt+b /alt+shift+b
