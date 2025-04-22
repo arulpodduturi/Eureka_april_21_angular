@@ -18,12 +18,15 @@ Web development
     Used to develop User Interface (Look and feel)
     HTML
         Used to add content(paragraph,div, tag,image, vedio,table, form, list, audio) to the web page
+        HTML is a hyper text markup language which is used to define structure and content of the web page
     CSS
         Styling to the web page like border, color, width, height, background, placement
+            CSS is a stylesheet language used to describe the presentation of a document written in HTML or XML
     Bootstrap
         CSS library (lot of pre defined css classes/ responsiveness)
     javascript
         behaviour of the web page
+        It is scripting language used to add interactivity, logic and dymanic behaviour to the web page
     Angular/React
         javascript frameworks (RAD ,CLI ,template system , Routing, form handling)
         it supports only typescript
@@ -44,3 +47,10 @@ Flipkart Product Example
     - to open/ run the html file in browser
         a. install vscode extension (open in browser)
         b. alt+b /alt+shift+b
+
+
+Single page application
+    it is a web application that loads the single web page and dynamically updates the page as user interacts with the application
+DOM (Document object Model)
+    It is a standard programming interface that represents the structure of the document in memory, allowing scripts to interact with and modify it.
+    
