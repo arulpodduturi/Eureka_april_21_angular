@@ -11,13 +11,11 @@
     <p>Result is <span id="add"></span></p>
     
     <script>
-        window.prompt(`Assignment to add two numbers`);
+        window.alert(`Assignment to add two numbers`);
         let num1=window.prompt(`Enter number 1`);
         let num2=window.prompt(`enter number 2`);
-        let a=parseInt(num1);   // window prompt take variable as string so i converted it to integer
-        let b=parseInt(num2);  
-        let c=a+b;
-        console.log(`Addition of ${a} and ${b} is ${a+b}`);
+        let c=parseInt(a)+parseInt(b);  // window prompt take variable as string so i converted it to integer
+        console.log(`Addition of ${a} and ${b} is ${a+b}`); // to display result in console
         document.getElementById('add').innerText=c; // To display result in normal html page
     </script>
 </body>
