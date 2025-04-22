@@ -4,20 +4,21 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Assignmnet 22_April</title>
 
 </head>
 <body>
     <p>Result is <span id="add"></span></p>
     
     <script>
+        window.prompt(`Assignment to add two numbers`);
         let num1=window.prompt(`Enter number 1`);
         let num2=window.prompt(`enter number 2`);
         let a=parseInt(num1);   // window prompt take variable as string so i converted it to integer
         let b=parseInt(num2);  
         let c=a+b;
         console.log(`Addition of ${a} and ${b} is ${a+b}`);
-        document.getElementById('add').innerText=c; // To displaying result in normal html page
+        document.getElementById('add').innerText=c; // To display result in normal html page
     </script>
 </body>
 </html>
