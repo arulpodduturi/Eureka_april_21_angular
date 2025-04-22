@@ -53,4 +53,7 @@ Single page application
     it is a web application that loads the single web page and dynamically updates the page as user interacts with the application
 DOM (Document object Model)
     It is a standard programming interface that represents the structure of the document in memory, allowing scripts to interact with and modify it.
+
+typescript
+
     
