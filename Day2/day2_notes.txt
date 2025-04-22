@@ -1,0 +1,468 @@
+HTML emmets
+    https://docs.emmet.io/cheat-sheet/
+
+
+Create div  with some id
+    #div1+enter
+    OUTPUT:
+        <div id="div1"></div>
+    .div1+enter    for div with class div1
+    button.btn.btn-primay{Primary Button}+enter
+        OUTPUT:
+         <button class="btn btn-primay">Primary Button</button>
+    ol>li*5{Country-$}
+        OUTPUT:
+            <ol>
+                <li>Country-1</li>
+                <li>Country-2</li>
+                <li>Country-3</li>
+                <li>Country-4</li>
+                <li>Country-5</li>
+            </ol>
+    ul>li*5{states-$}
+
+    select>option*20{country-$}
+        OUTPUT
+            <select name="" id="">
+                <option value="">country-1</option>
+                <option value="">country-2</option>
+                <option value="">country-3</option>
+                <option value="">country-4</option>
+                <option value="">country-5</option>
+                <option value="">country-6</option>
+                <option value="">country-7</option>
+                <option value="">country-8</option>
+                <option value="">country-9</option>
+                <option value="">country-10</option>
+                <option value="">country-11</option>
+                <option value="">country-12</option>
+                <option value="">country-13</option>
+                <option value="">country-14</option>
+                <option value="">country-15</option>
+                <option value="">country-16</option>
+                <option value="">country-17</option>
+                <option value="">country-18</option>
+                <option value="">country-19</option>
+                <option value="">country-20</option>
+            </select>
+    table>tbody>tr*50>td*5{data-$}
+
+    OUTPUT
+            <table>
+        <tbody>
+            <tr>
+                <td>data-1</td>
+                <td>data-2</td>
+                <td>data-3</td>
+                <td>data-4</td>
+                <td>data-5</td>
+            </tr>
+            <tr>
+                <td>data-1</td>
+                <td>data-2</td>
+                <td>data-3</td>
+                <td>data-4</td>
+                <td>data-5</td>
+            </tr>
+            <tr>
+                <td>data-1</td>
+                <td>data-2</td>
+                <td>data-3</td>
+                <td>data-4</td>
+                <td>data-5</td>
+            </tr>
+            <tr>
+                <td>data-1</td>
+                <td>data-2</td>
+                <td>data-3</td>
+                <td>data-4</td>
+                <td>data-5</td>
+            </tr>
+            <tr>
+                <td>data-1</td>
+                <td>data-2</td>
+                <td>data-3</td>
+                <td>data-4</td>
+                <td>data-5</td>
+            </tr>
+            <tr>
+                <td>data-1</td>
+                <td>data-2</td>
+                <td>data-3</td>
+                <td>data-4</td>
+                <td>data-5</td>
+            </tr>
+            <tr>
+                <td>data-1</td>
+                <td>data-2</td>
+                <td>data-3</td>
+                <td>data-4</td>
+                <td>data-5</td>
+            </tr>
+            <tr>
+                <td>data-1</td>
+                <td>data-2</td>
+                <td>data-3</td>
+                <td>data-4</td>
+                <td>data-5</td>
+            </tr>
+            <tr>
+                <td>data-1</td>
+                <td>data-2</td>
+                <td>data-3</td>
+                <td>data-4</td>
+                <td>data-5</td>
+            </tr>
+            <tr>
+                <td>data-1</td>
+                <td>data-2</td>
+                <td>data-3</td>
+                <td>data-4</td>
+                <td>data-5</td>
+            </tr>
+            <tr>
+                <td>data-1</td>
+                <td>data-2</td>
+                <td>data-3</td>
+                <td>data-4</td>
+                <td>data-5</td>
+            </tr>
+            <tr>
+                <td>data-1</td>
+                <td>data-2</td>
+                <td>data-3</td>
+                <td>data-4</td>
+                <td>data-5</td>
+            </tr>
+            <tr>
+                <td>data-1</td>
+                <td>data-2</td>
+                <td>data-3</td>
+                <td>data-4</td>
+                <td>data-5</td>
+            </tr>
+            <tr>
+                <td>data-1</td>
+                <td>data-2</td>
+                <td>data-3</td>
+                <td>data-4</td>
+                <td>data-5</td>
+            </tr>
+            <tr>
+                <td>data-1</td>
+                <td>data-2</td>
+                <td>data-3</td>
+                <td>data-4</td>
+                <td>data-5</td>
+            </tr>
+            <tr>
+                <td>data-1</td>
+                <td>data-2</td>
+                <td>data-3</td>
+                <td>data-4</td>
+                <td>data-5</td>
+            </tr>
+            <tr>
+                <td>data-1</td>
+                <td>data-2</td>
+                <td>data-3</td>
+                <td>data-4</td>
+                <td>data-5</td>
+            </tr>
+            <tr>
+                <td>data-1</td>
+                <td>data-2</td>
+                <td>data-3</td>
+                <td>data-4</td>
+                <td>data-5</td>
+            </tr>
+            <tr>
+                <td>data-1</td>
+                <td>data-2</td>
+                <td>data-3</td>
+                <td>data-4</td>
+                <td>data-5</td>
+            </tr>
+            <tr>
+                <td>data-1</td>
+                <td>data-2</td>
+                <td>data-3</td>
+                <td>data-4</td>
+                <td>data-5</td>
+            </tr>
+            <tr>
+                <td>data-1</td>
+                <td>data-2</td>
+                <td>data-3</td>
+                <td>data-4</td>
+                <td>data-5</td>
+            </tr>
+            <tr>
+                <td>data-1</td>
+                <td>data-2</td>
+                <td>data-3</td>
+                <td>data-4</td>
+                <td>data-5</td>
+            </tr>
+            <tr>
+                <td>data-1</td>
+                <td>data-2</td>
+                <td>data-3</td>
+                <td>data-4</td>
+                <td>data-5</td>
+            </tr>
+            <tr>
+                <td>data-1</td>
+                <td>data-2</td>
+                <td>data-3</td>
+                <td>data-4</td>
+                <td>data-5</td>
+            </tr>
+            <tr>
+                <td>data-1</td>
+                <td>data-2</td>
+                <td>data-3</td>
+                <td>data-4</td>
+                <td>data-5</td>
+            </tr>
+            <tr>
+                <td>data-1</td>
+                <td>data-2</td>
+                <td>data-3</td>
+                <td>data-4</td>
+                <td>data-5</td>
+            </tr>
+            <tr>
+                <td>data-1</td>
+                <td>data-2</td>
+                <td>data-3</td>
+                <td>data-4</td>
+                <td>data-5</td>
+            </tr>
+            <tr>
+                <td>data-1</td>
+                <td>data-2</td>
+                <td>data-3</td>
+                <td>data-4</td>
+                <td>data-5</td>
+            </tr>
+            <tr>
+                <td>data-1</td>
+                <td>data-2</td>
+                <td>data-3</td>
+                <td>data-4</td>
+                <td>data-5</td>
+            </tr>
+            <tr>
+                <td>data-1</td>
+                <td>data-2</td>
+                <td>data-3</td>
+                <td>data-4</td>
+                <td>data-5</td>
+            </tr>
+            <tr>
+                <td>data-1</td>
+                <td>data-2</td>
+                <td>data-3</td>
+                <td>data-4</td>
+                <td>data-5</td>
+            </tr>
+            <tr>
+                <td>data-1</td>
+                <td>data-2</td>
+                <td>data-3</td>
+                <td>data-4</td>
+                <td>data-5</td>
+            </tr>
+            <tr>
+                <td>data-1</td>
+                <td>data-2</td>
+                <td>data-3</td>
+                <td>data-4</td>
+                <td>data-5</td>
+            </tr>
+            <tr>
+                <td>data-1</td>
+                <td>data-2</td>
+                <td>data-3</td>
+                <td>data-4</td>
+                <td>data-5</td>
+            </tr>
+            <tr>
+                <td>data-1</td>
+                <td>data-2</td>
+                <td>data-3</td>
+                <td>data-4</td>
+                <td>data-5</td>
+            </tr>
+            <tr>
+                <td>data-1</td>
+                <td>data-2</td>
+                <td>data-3</td>
+                <td>data-4</td>
+                <td>data-5</td>
+            </tr>
+            <tr>
+                <td>data-1</td>
+                <td>data-2</td>
+                <td>data-3</td>
+                <td>data-4</td>
+                <td>data-5</td>
+            </tr>
+            <tr>
+                <td>data-1</td>
+                <td>data-2</td>
+                <td>data-3</td>
+                <td>data-4</td>
+                <td>data-5</td>
+            </tr>
+            <tr>
+                <td>data-1</td>
+                <td>data-2</td>
+                <td>data-3</td>
+                <td>data-4</td>
+                <td>data-5</td>
+            </tr>
+            <tr>
+                <td>data-1</td>
+                <td>data-2</td>
+                <td>data-3</td>
+                <td>data-4</td>
+                <td>data-5</td>
+            </tr>
+            <tr>
+                <td>data-1</td>
+                <td>data-2</td>
+                <td>data-3</td>
+                <td>data-4</td>
+                <td>data-5</td>
+            </tr>
+            <tr>
+                <td>data-1</td>
+                <td>data-2</td>
+                <td>data-3</td>
+                <td>data-4</td>
+                <td>data-5</td>
+            </tr>
+            <tr>
+                <td>data-1</td>
+                <td>data-2</td>
+                <td>data-3</td>
+                <td>data-4</td>
+                <td>data-5</td>
+            </tr>
+            <tr>
+                <td>data-1</td>
+                <td>data-2</td>
+                <td>data-3</td>
+                <td>data-4</td>
+                <td>data-5</td>
+            </tr>
+            <tr>
+                <td>data-1</td>
+                <td>data-2</td>
+                <td>data-3</td>
+                <td>data-4</td>
+                <td>data-5</td>
+            </tr>
+            <tr>
+                <td>data-1</td>
+                <td>data-2</td>
+                <td>data-3</td>
+                <td>data-4</td>
+                <td>data-5</td>
+            </tr>
+            <tr>
+                <td>data-1</td>
+                <td>data-2</td>
+                <td>data-3</td>
+                <td>data-4</td>
+                <td>data-5</td>
+            </tr>
+            <tr>
+                <td>data-1</td>
+                <td>data-2</td>
+                <td>data-3</td>
+                <td>data-4</td>
+                <td>data-5</td>
+            </tr>
+            <tr>
+                <td>data-1</td>
+                <td>data-2</td>
+                <td>data-3</td>
+                <td>data-4</td>
+                <td>data-5</td>
+            </tr>
+            <tr>
+                <td>data-1</td>
+                <td>data-2</td>
+                <td>data-3</td>
+                <td>data-4</td>
+                <td>data-5</td>
+            </tr>
+        </tbody>
+    </table>
+
+HOW to use CSS in an HTML file
+=========================================
+
+1.inline CSS 
+    We use style attribute inside the element. Restrcited to one element
+    <div style='color:red'> this is a div</div>
+2. Internal CSS
+    We use style tag
+    restricted to one html page
+3. External
+    Write a CSS in separate .css file
+    include that file in html file
+
+HOW to use Bootstrap
+===============================
+
+ADD CDN link to the <head> of HTML file
+
+How to write and execute Javascript code
+=================================================
+1. Browser (frontend development)
+
+    a. create a JS file with some javascript content
+    b. include that js file into html file
+        <script src="link"></script>
+    c. opent the HTML file in browser (alt+b)
+2. NodeJS (backend Development)
+    1. create a JS file with some js content
+    2. run the js file with the below cmd
+        node <filename>.js (make sure nodejs is installed)
+
+Every js code that run on browser might not work in NodeJS
+
+Most commonly used javascript functions
+==================================================== 
+console.log()       console: object, log : function
+document.write()    document:object, write: function
+window.alert()      window:object, alert: function
+
+Note: while accessing window objects methods/functions, using window.function() is not mandatory
+
+Commmonly used objects/classes
+========================================
+console: log(), error(), warn(), assert(), table(), time(), timeEnd()
+window: alert(), prompt(), confirm(), print(), close()
+document: write(), writeln()
+Math : abs(), sqrt(), cbrt(), max(), min()
+Array: push(),pop(),filter(), map()
+Object : assign(), create(), freeze()
+
+
+window
+=========================
+
+prompt
+
+
+Homework/ Assignment
+============================
+
+1. Revise DAY-2 Discussion
+2. Practice emmets
+3. write a JS program using prompt method ask user to enter 2 numbers, display addition result
